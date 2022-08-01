@@ -1,2 +1,3 @@
 # Tic_Tac_Toe
-Tic tac toe game written in python
+Two player Tic tac toe game written in python
+One player (vs AI) current localhost WIP
